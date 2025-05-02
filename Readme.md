@@ -11,4 +11,4 @@ This script installs and configures a powerful ZSH environment with:
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/Miladeos/zsh-setup.git && cd YOUR_REPO_NAME && chmod +x zshell.sh && ./zshell.sh -y
+git clone https://github.com/Miladeos/zsh-setup.git && cd zsh-setup && chmod +x zshell.sh && ./zshell.sh -y
