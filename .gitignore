@@ -1,0 +1,22 @@
+# General
+*.swp
+*.swo
+*~
+*.bak
+*.tmp
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux
+*~
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Shell script execution
+*.log
